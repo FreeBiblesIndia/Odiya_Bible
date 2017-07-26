@@ -1,11 +1,11 @@
 # Oriya_Bible
 Oriya Bible (CC by SA)
 
-New Testament (27 books) available.
+Full Bible (66 Books OT+NT) available.
 
 Read Bible, Download Android/Desktop Apps
 
-http://freebiblesindia.com/bible/ori/ (Coming soon)
+http://freebiblesindia.com/bible/ori/
 
 Thanks
 =======
