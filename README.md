@@ -5,7 +5,7 @@ Full Bible (66 Books OT+NT) available.
 
 Read Bible, Download Android/Desktop Apps
 
-http://freebiblesindia.com/bible/ori/
+http://freebiblesindia.in/bible/ori/
 
 Thanks
 =======
