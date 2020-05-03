@@ -1,5 +1,8 @@
-# Oriya_Bible
-Oriya Bible (CC by SA)
+# Odiya_Bible
+
+![icon](https://github.com/FreeBiblesIndia/Odiya_Bible/blob/master/icons/icon.png?raw=true)
+
+Odiya Bible (CC by SA)
 
 Full Bible (66 Books OT+NT) available.
 
